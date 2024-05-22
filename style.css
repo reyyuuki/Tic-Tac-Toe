@@ -113,7 +113,7 @@ button:active {
 }
 @media only screen and (max-width:600px)  {
     .Board{
-        transform: scale(0.9);
+        transform: scale(0.8);
     }
     #msg{
         transform: scale(0.9);
