@@ -39,7 +39,8 @@ body {
 #msg {
     position: absolute;
     font-size: 20px;
-    color: rgb(255, 255, 255, 0.5);
+    color: rgb(255, 255, 255, 0.674);
+    background-color: rgba(255, 255, 255, 0.139);
     border-radius: 10px;
     backdrop-filter: blur(20px);
     height: 400px;
